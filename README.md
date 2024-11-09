@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 👨‍💻 I'm a passionate developer who loves to build cool projects and explore new technologies. 🚀
 
 ## 🔧 Languages and Tools:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhakhangir&layout=compact&theme=tokyonight)
 
 - **Languages**: JavaScript, TypeScript, C++, Swift, Objective-C
 - **Frontend**: React, HTML, CSS, TailwindCSS(TailwindCSS)
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate developer who loves t
 - **Others**: REST APIs, Firebase, AWS, APNs
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhakhangir&show_icons=true&theme=tokyonight)
 
 ## 🌱 Currently Learning:
 - React-Native
