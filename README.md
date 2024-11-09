@@ -30,9 +30,9 @@ React-Native test project
 We-Mob mobile application, integrate with CRM
 
 ## 📞 Contact Me:
-- Email: [your.email@example.com](jahangirtiaorv123@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](/www.linkedin.com/in/zhakhangir-t-402476249)
-- Telegram: [@YourTwitterHandle](@zhtairov)
+- Email: [jahangirtiaorv123@gmail.com](jahangirtiaorv123@gmail.com)
+- LinkedIn: [Linkedin](/www.linkedin.com/in/zhakhangir-t-402476249)
+- Telegram: [Telegram](@zhtairov)
 
 ## ⚡ Fun Fact:
 I am passionate about open-source software and contributing to the developer community! I am also a huge fan of coffee. ☕
