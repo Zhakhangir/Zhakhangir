@@ -36,3 +36,4 @@ We-Mob mobile application, integrate with CRM
 
 ## ⚡ Fun Fact:
 I am passionate about open-source software and contributing to the developer community! I am also a huge fan of coffee. ☕
+In addition to my main job, I develop my own applications and upload them to the App Store. I love playing Dota 2. Besides that, I enjoy watching matches of Warcraft 3 FT, and my favorite players are Happy, Moon, Sonic, and of course, Foggy. And of course, how could I forget Cossacks 3: Golden Age – I absolutely love that game too. I'm still looking for a way to defeat the Swiss Pikemen and a method for grouping troops.
