@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm  Zhakhangir👋
 
-<!--
-**Zhakhangir/Zhakhangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👨‍💻 I'm a passionate developer who loves to build cool projects and explore new technologies. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Languages and Tools:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, TypeScript, C++, Swift, Objective-C
+- **Frontend**: React, HTML, CSS, TailwindCSS(TailwindCSS)
+- **Mobile**: React Ntive, Swift, SwiftUI
+- **Tools**: Git, VSCode, Xcode, Android Studio
+- **Others**: REST APIs, Firebase, AWS, APNs
+
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🌱 Currently Learning:
+- React-Native
+
+## 💻 My Projects:
+Here are some of the projects I'm working on:
+
+### [Project 1]([https://github.com/YOUR_USERNAME/PROJECT_1](https://github.com/Zhakhangir/werp_react_front))
+Aura Kazakhstan CRM: React-Redux front
+
+### [Project 2](https://github.com/Zhakhangir/Aora)
+React-Native test project
+
+### [Project 3](https://github.com/Zhakhangir/WeMob)
+We-Mob mobile application, integrate with CRM
+
+## 📞 Contact Me:
+- Email: [your.email@example.com](jahangirtiaorv123@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](/www.linkedin.com/in/zhakhangir-t-402476249)
+- Telegram: [@YourTwitterHandle](@zhtairov)
+
+## ⚡ Fun Fact:
+I am passionate about open-source software and contributing to the developer community! I am also a huge fan of coffee. ☕
